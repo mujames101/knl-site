@@ -33,9 +33,9 @@ const About: React.FC<AboutProps> = ({ language }) => {
       ]
     },
     en: {
-      title: 'About Carnelli Marine Technology',
+      title: 'About Canelli Marine Technology',
       subtitle: 'Professional • Innovative • Reliable',
-      description: 'Carnelli Marine Technology Co., Ltd. was established in 2008 as a high-tech enterprise specializing in vessel structural analysis, vibration control, and noise assessment. We have a professional team of senior marine engineers and technical experts, dedicated to providing quality technical services to the global maritime industry.',
+      description: 'Canelli Marine Technology Co., Ltd. was established in 2008 as a high-tech enterprise specializing in vessel structural analysis, vibration control, and noise assessment. We have a professional team of senior marine engineers and technical experts, dedicated to providing quality technical services to the global maritime industry.',
       mission: {
         title: 'Our Mission',
         content: 'To provide safe, efficient, and environmentally friendly technical solutions for the maritime industry through advanced technology and professional services, promoting the development and innovation of marine engineering technology.'
