@@ -8,7 +8,7 @@ interface AboutProps {
 const About: React.FC<AboutProps> = ({ language }) => {
   const translations = {
     zh: {
-      title: '关于上海卡内利船舶科技',
+      title: '关于卡内利船舶科技',
       subtitle: '专业 • 创新 • 可靠',
       description: '卡内利船舶科技有限公司成立于2008年，是一家专业从事船舶结构分析、振动控制和噪声评估的高新技术企业。我们拥有一支由资深海洋工程师和技术专家组成的专业团队，致力于为全球船舶行业提供优质的技术服务。',
       mission: {
