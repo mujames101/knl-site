@@ -20,7 +20,7 @@ const Header: React.FC<HeaderProps> = ({ language, setLanguage, currentSection, 
       contact: '联系我们'
     },
     en: {
-      company: 'Carnelli Marine Technology Co., Ltd.',
+      company: 'Canelli Marine Technology Co., Ltd.',
       home: 'Home',
       services: 'Services',
       about: 'About Us',
