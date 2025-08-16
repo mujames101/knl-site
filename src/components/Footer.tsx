@@ -8,7 +8,7 @@ interface FooterProps {
 const Footer: React.FC<FooterProps> = ({ language }) => {
   const translations = {
     zh: {
-      company: '卡内利船舶科技有限公司',
+      company: '上海卡内利船舶科技有限公司',
       description: '专业的船舶技术服务提供商，致力于为全球船舶行业提供优质的结构分析、振动控制和噪声评估服务。',
       services: {
         title: '服务项目',
