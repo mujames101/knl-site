@@ -20,7 +20,7 @@ const Hero: React.FC<HeroProps> = ({ language, setCurrentSection }) => {
     en: {
       title: 'Professional Marine Technology Solutions',
       subtitle: 'Structural Analysis • Vibration Control • Noise Assessment',
-      description: 'Carnelli Marine Technology is dedicated to providing professional structural strength analysis, vibration control, and noise assessment services for the global maritime industry, ensuring safe, efficient, and environmentally friendly vessel operations.',
+      description: 'Canelli Marine Technology is dedicated to providing professional structural strength analysis, vibration control, and noise assessment services for the global maritime industry, ensuring safe, efficient, and environmentally friendly vessel operations.',
       cta: 'Explore Our Services',
       experience: 'Years Experience',
       projects: 'Projects Completed',
