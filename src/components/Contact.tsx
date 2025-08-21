@@ -38,8 +38,8 @@ const Contact: React.FC<ContactProps> = ({ language }) => {
       ],
       contact: {
         address: '中国上海市浦东新区海洋科技园区',
-        phone: '+86-21-1234-5678',
-        email: 'info@carnelli-marine.com',
+        phone: '+86-15216779514',
+        email: 'CanelliMarine@126.com',
         hours: '周一至周五 9:00-18:00'
       },
       placeholders: {
