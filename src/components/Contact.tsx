@@ -39,8 +39,8 @@ const Contact: React.FC<ContactProps> = ({ language }) => {
       contact: {
         address: '中国上海市浦东新区海洋科技园区',
         phone: '+86-15216779514',
-        email: 'CanelliMarine@126.com',
-        hours: '周一至周五 9:00-18:00'
+        email: 'bestmarineadvisory@gmx.com',
+        hours: '7/24'
       },
       placeholders: {
         name: '请输入您的姓名',
