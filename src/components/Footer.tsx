@@ -22,8 +22,8 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
       contact: {
         title: '联系方式',
         address: '中国上海市浦东新区海洋科技园区',
-        phone: '+86-21-1234-5678',
-        email: 'info@carnelli-marine.com'
+        phone: '+86-15216779514',
+        email: 'bestmarineadvisory@gmx.com'
       },
       copyright: '版权所有',
       rights: '保留所有权利'
@@ -43,8 +43,8 @@ const Footer: React.FC<FooterProps> = ({ language }) => {
       contact: {
         title: 'Contact Info',
         address: 'Marine Technology Park, Pudong New Area, Shanghai, China',
-        phone: '+86-21-1234-5678',
-        email: 'info@carnelli-marine.com'
+        phone: '+86-15216779514',
+        email: 'bestmarineadvisory@gmx.com'
       },
       copyright: 'Copyright',
       rights: 'All rights reserved'
