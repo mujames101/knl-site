@@ -72,8 +72,8 @@ const Contact: React.FC<ContactProps> = ({ language }) => {
       ],
       contact: {
         address: 'Marine Technology Park, Pudong New Area, Shanghai, China',
-        phone: '+86-21-1234-5678',
-        email: 'info@carnelli-marine.com',
+        phone: '+86-15216779514',
+        email: 'bestmarineadvisory@gmx.com',
         hours: 'Monday - Friday 9:00-18:00'
       },
       placeholders: {
