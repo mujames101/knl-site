@@ -10,7 +10,7 @@ const About: React.FC<AboutProps> = ({ language }) => {
     zh: {
       title: '关于卡内利船舶科技',
       subtitle: '专业 • 创新 • 可靠',
-      description: '卡内利船舶科技有限公司成立于2023年，是一家专业从事船舶结构分析、振动控制和噪声评估的高新技术企业。我们拥有一支由资深海洋工程师和技术专家组成的专业团队，致力于为全球船舶行业提供优质的技术服务。',
+      description: '卡内利船舶科技有限公司可追溯于2010年，是一家专业从事船舶结构分析、振动控制和噪声评估的高新技术企业。我们拥有一支由资深海洋工程师和技术专家组成的专业团队，致力于为全球船舶行业提供优质的技术服务。',
       mission: {
         title: '我们的使命',
         content: '通过先进的技术和专业的服务，为船舶行业提供安全、高效、环保的技术解决方案，推动海洋工程技术的发展与创新。'
@@ -35,7 +35,7 @@ const About: React.FC<AboutProps> = ({ language }) => {
     en: {
       title: 'About Canelli Marine Technology',
       subtitle: 'Professional • Innovative • Reliable',
-      description: 'Canelli Marine Technology Co., Ltd. was established in 2008 as a high-tech enterprise specializing in vessel structural analysis, vibration control, and noise assessment. We have a professional team of senior marine engineers and technical experts, dedicated to providing quality technical services to the global maritime industry.',
+      description: 'Canelli Marine Technology Co., Ltd. can traced back to 2010 as a high-tech enterprise specializing in vessel structural analysis, vibration control, and noise assessment. We have a professional team of senior marine engineers and technical experts, dedicated to providing quality technical services to the global maritime industry.',
       mission: {
         title: 'Our Mission',
         content: 'To provide safe, efficient, and environmentally friendly technical solutions for the maritime industry through advanced technology and professional services, promoting the development and innovation of marine engineering technology.'
