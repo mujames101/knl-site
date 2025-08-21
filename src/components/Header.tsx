@@ -13,7 +13,7 @@ const Header: React.FC<HeaderProps> = ({ language, setLanguage, currentSection, 
 
   const translations = {
     zh: {
-      company: '卡内利船舶科技有限公司',
+      company: '上海卡内利船舶科技有限公司',
       home: '首页',
       services: '服务项目',
       about: '关于我们',
